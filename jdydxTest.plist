@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bshinfo.bank</string>
+				<string>com.bshinfo.jdydx</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
